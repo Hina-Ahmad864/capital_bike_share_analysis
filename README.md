@@ -47,4 +47,15 @@ People are most likely to ride their bikes in sunny weather, for longer periods 
 People are still likely to ride their bikes in cloudy weather, but for shorter periods of time.
 People are least likely to ride their bikes in rainy weather, for the shortest periods of time.
 These findings could be used to inform decisions about how to promote bike share usage. For example, bike share programs could focus on marketing their services to people who live in areas with sunny weather. Additionally, bike share programs could consider offering discounts or incentives to people who ride their bikes in rainy weather                                                                                                                                                                   
-* The number of bike rides in 2021 was significantly affected by weather conditions. There were more rides on sunny days than on cloudy or rainy days. The number of rides was highest on clear days, with an average of 100 rides per day. The number of rides was lowest on rainy days, with an average of 50 rides per day.
+
+*The number of bike rides in 2021 was significantly affected by weather conditions. There were more rides on sunny days than on cloudy or rainy days. The number of rides was highest on clear days, with an average of 100 rides per day. The number of rides was lowest on rainy days, with an average of 50 rides per day.
+
+
+Data Sources & Resources:
+Capital Bikeshare Ride Data: https://s3.amazonaws.com/capitalbikeshare-data/index.html
+Weather Data: http://weathermap.org/
+Google Maps API: https://mapsplatform.google.com/maps-products/?_gl=1*wgsu3n*_ga*Mjk2MzMyMTY2LjE2ODYwMTYxODY.*_ga_NRWSTWS78N*MTY4NjAxNjE4Ni4xLjAuMTY4NjAxNjE5MC4wLjAuMA
+For Code Troubleshooting: https://www.useblackbox.io/
+For Code Troubleshooting: Python for Data Analysis: Data Wrangling with pandas, NumPy & Jupyter 3rd Edition (https://wesmckinney.com/book/)
+
+
