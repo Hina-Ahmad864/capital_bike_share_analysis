@@ -12,7 +12,7 @@ What are the differences between members and non-members when it comes to overal
 Does the time of year (season) have an impact on ridership?
 What are the popular areas where rides begin and end?
 
-What is Bike Sharing (historical info from Wikipedia)
+What is Bike Sharing?
 
 The first bike sharing projects were initiated by various sources, such as local community organizations, charitable projects intended for the disadvantaged, as a way to promote bicycles as a non-polluting form of transportation – and bike-lease businesses.
 
@@ -55,6 +55,7 @@ Data Sources & Resources:
 Capital Bikeshare Ride Data: https://s3.amazonaws.com/capitalbikeshare-data/index.html
 Weather Data: http://weathermap.org/
 Google Maps API: https://mapsplatform.google.com/maps-products/?_gl=1*wgsu3n*_ga*Mjk2MzMyMTY2LjE2ODYwMTYxODY.*_ga_NRWSTWS78N*MTY4NjAxNjE4Ni4xLjAuMTY4NjAxNjE5MC4wLjAuMA
+Historical info of Bikeshare systmes: https://en.wikipedia.org/wiki/Bicycle-sharing_system
 For Code Troubleshooting: https://www.useblackbox.io/
 For Code Troubleshooting: Python for Data Analysis: Data Wrangling with pandas, NumPy & Jupyter 3rd Edition (https://wesmckinney.com/book/)
 
